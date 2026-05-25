@@ -195,7 +195,7 @@ export default function Portfolio() {
               <span className="text-pop">✦</span>
               <span className="italic font-light">Mobile Development</span>
               <span className="text-pop">✦</span>
-              <span>AI Development</span>
+              <span>AI Integration</span>
               <span className="text-pop">✦</span>
               <span className="italic font-light">DevOps</span>
               <span className="text-pop">✦</span>
